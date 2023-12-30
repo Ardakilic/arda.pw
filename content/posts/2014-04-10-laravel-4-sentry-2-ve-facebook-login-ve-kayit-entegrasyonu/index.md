@@ -7,8 +7,9 @@ date: '2014-04-10T11:49:52.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development"]
 keywords: ["laravel", "php", "rdbms", "sentry", "türkçe"]
-featuredImage: "posts/laravel-4-sentry-2-ve-facebook-login-ve-kayit-entegrasyonu/images/laravel-logo.png"
+# featuredImage: "posts/laravel-4-sentry-2-ve-facebook-login-ve-kayit-entegrasyonu/images/laravel-logo.png"
 slug: laravel-4-sentry-2-ve-facebook-login-ve-kayit-entegrasyonu
+draft: false
 ---
 
 Bugün sizlere popüler PHP Framework’ü [Laravel 4](http://www.laravel.com) üzerinde popüler authentication sınıfı [Sentry](https://cartalyst.com/manual/sentry/introduction) (v2) ile Facebook connect entegrasyonunu nasıl yapacağınızı anlatacağım. Normalde Sentry için Cartalyst’in [Sentry Social](https://cartalyst.com/manual/sentry-social) adında bir paketi var ve çoğu oAuth ve oAuth2 bileşenlerini otomatik olarak destekliyor, fakat bu paket ücretli (ayda 20 dolarlık bir paketin parçası).
