@@ -61,6 +61,11 @@ style = "github-dark"
   icon = "fa fa-mastodon fa-2x"
   weight = 3
   url = "https://micro.arda.pw/@arda"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/ardakilicdagi/"
 
 # Menu links
 [[menu.main]]
