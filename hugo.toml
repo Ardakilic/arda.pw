@@ -52,19 +52,49 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/Ardakilic"
 [[params.social]]
+  name = "Stackoverflow"
+  icon = "fa fa-stack-overflow fa-2x"
+  weight = 2
+  url = "https://stackoverflow.com/users/570763/arda"
+[[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 2
+  weight = 3
   url = "https://twitter.com/ardadev"
 [[params.social]]
   name = "Mastodon"
   icon = "fa fa-mastodon fa-2x"
-  weight = 3
+  weight = 4
   url = "https://micro.arda.pw/@arda"
+[[params.social]]
+  name = "BlueSky"
+  icon = "fa fa-cloud fa-2x"
+  weight = 4
+  url = "https://staging.bsky.app/profile/arda.bsky.social"
+[[params.social]]
+  name = "Reddit"
+  icon = "fa fa-reddit fa-2x"
+  weight = 5
+  url = "https://www.reddit.com/user/ardakilic/"
+[[params.social]]
+  name = "Trakt"
+  icon = "fa fa-tv fa-2x"
+  weight = 6
+  url = "https://trakt.tv/users/arda/"
+[[params.social]]
+  name = "IGDB"
+  icon = "fa fa-gamepad fa-2x"
+  weight = 7
+  url = "https://www.igdb.com/users/ardakilicdagi"
+[[params.social]]
+  name = "Last.fm"
+  icon = "fa fa-lastfm fa-2x"
+  weight = 8
+  url = "https://www.last.fm/user/ArdaDev"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
-  weight = 3
+  weight = 9
   url = "https://www.linkedin.com/in/ardakilicdagi/"
 
 # Menu links

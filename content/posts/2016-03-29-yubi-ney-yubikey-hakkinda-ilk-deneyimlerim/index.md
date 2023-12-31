@@ -264,6 +264,6 @@ Artık bu özelliği ayarladığım servislerde giriş işlemlerim: Parola gir, 
 
 ### E Hani Bölüm 2?
 
-**Güncelleme**: Yazının 2. bölümünü [buradan](https://medium.com/@ardakilic/yubikey-i-smart-card-olarak-kullanmak-ve-gpg-anahtarı-ile-ssh-doğrulaması-yapmak-f64766fa19ab) okuyabilirsiniz.
+**Güncelleme**: Yazının 2. bölümünü [buradan]({{< ref "../2016-04-18-yubikeyi-smart-card-olarak-kullanmak-ve-gpg-anahtari-ile-sh-dogrulamasi-yapmak/index.md" >}}) okuyabilirsiniz.
 
 Sıradaki amacım da SSH bağlantısı için GPG anahtarlarımı (yoksa oluşturup) yüklemek, ve de Yubikey üzerinden kullanmaktı. Bunu da bu yazıyı da boğmamak adına bir sonraki yazımda “Bölüm 2” olarak aşama aşama anlatmaya karar verdim.
