@@ -4,7 +4,7 @@ description: Bugün sizlere Laravel 4'te Cache + Pagination (sayfa numaralandır
 date: '2014-09-23T10:01:06.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development"]
-keywords: ["laravel", "cache", "pagination", "redis", "türkçe"]
+tags: ["laravel", "cache", "pagination", "redis", "türkçe"]
 slug: laravel-4-cache-pagination-kullanimi
 # featuredImage: "posts/laravel-4-cache-pagination-kullanimi/images/laravel-logo.png"
 draft: false

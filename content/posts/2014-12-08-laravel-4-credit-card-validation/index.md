@@ -4,7 +4,7 @@ description: 'Hello all,'
 date: '2014-12-08T14:36:25.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development"]
-keywords: ["laravel", "php", "sms", "mutlucell", "english"]
+tags: ["laravel", "php", "sms", "mutlucell", "english"]
 slug: laravel-4-credit-card-validation
 # featuredImage: "posts/laravel-4-credit-card-validation/images/laracard.png"
 draft: false

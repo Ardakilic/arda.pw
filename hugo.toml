@@ -24,9 +24,9 @@ style = "github-dark"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/images/favicon.svg"
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
 
   since = 2013
 
@@ -91,6 +91,11 @@ style = "github-dark"
   icon = "fa fa-lastfm fa-2x"
   weight = 8
   url = "https://www.last.fm/user/ArdaDev"
+[[params.social]]
+  name = "Feed to this Site"
+  icon = "fa fa-rss fa-2x"
+  weight = 8
+  url = "https://arda.pw/index.xml"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"

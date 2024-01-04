@@ -4,7 +4,7 @@ description: 'Hello, Today, I’ll try to tell about a little tiny trick about P
 date: '2015-09-01T08:36:08.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development"]
-keywords: ["laravel", "php", "slug", "english"]
+tags: ["laravel", "php", "slug", "english"]
 slug: laravel-5-fetching-unique-slugs-before-saving
 draft: false
 ---

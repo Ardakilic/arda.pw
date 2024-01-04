@@ -6,7 +6,7 @@ description: >-
 date: '2014-03-26T10:02:42.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development"]
-keywords: ["laravel", "php", "rdbms", "türkçe"]
+tags: ["laravel", "php", "rdbms", "türkçe"]
 # featuredImage: "posts/laravel-4-iliskiler-uzerinden-etkin-filtreleme-ve-gruplama/images/laravel-logo.png"
 slug: laravel-4-iliskiler-uzerinden-etkin-filtreleme-ve-gruplama
 draft: false

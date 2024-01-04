@@ -6,7 +6,7 @@ description: >-
 date: '2016-03-29T09:02:26.373Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development", "hardware"]
-keywords: ["yubikey", "2fa", "türkçe"]
+tags: ["yubikey", "2fa", "türkçe"]
 slug: yubi-ney-yubikey-hakkinda-ilk-deneyimlerim
 # featuredImage: "posts/yubi-ney-yubikey-hakkinda-ilk-deneyimlerim/images/yubi.jpg"
 draft: false

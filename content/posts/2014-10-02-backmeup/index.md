@@ -6,7 +6,7 @@ description: Bugün sizlere yazdığım bir shell script’i tanıtmak istiyorum
 date: '2014-10-02T14:49:53.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development", "devops"]
-keywords: ["backmeup", "backup", "backup", "aws", "s3", "dropbox", "türkçe"]
+tags: ["backmeup", "backup", "backup", "aws", "s3", "dropbox", "türkçe"]
 slug: backmeup
 # featuredImage: "posts/backmeup/images/backmeup.jpg"
 draft: false

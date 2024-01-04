@@ -6,7 +6,7 @@ description: >-
 date: '2014-07-24T11:57:34.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["development", "deveops"]
-keywords: ["centos", "namecheap", "ssl", "positivessl", "türkçe"]
+tags: ["centos", "namecheap", "ssl", "positivessl", "türkçe"]
 slug: centos-namecheap-positivessl-sertifikalama
 # featuredImage: "posts/centos-namecheap-positivessl-sertifikalama/images/https.jpg"
 draft: false

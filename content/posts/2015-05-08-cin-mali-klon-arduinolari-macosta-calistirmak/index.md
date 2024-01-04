@@ -6,7 +6,7 @@ description: >-
 date: '2015-05-08T11:28:48.000Z'
 author: ["Arda Kılıçdağı"]
 categories: ["maker"]
-keywords: ["macos", "osx", "arduino", "aliexpress", "türkçe"]
+tags: ["macos", "osx", "arduino", "aliexpress", "türkçe"]
 slug: cin-mali-klon-arduinolari-mac-osxte-calistirmak
 # featuredImage: "posts/cin-mali-klon-arduinolari-mac-osxte-calistirmaka/images/klonduino.jpg"
 draft: false
