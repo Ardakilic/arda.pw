@@ -7,7 +7,7 @@ description: >-
   yazımda da Yubikey’i bir smart card olarak kullanıp OpenPGP…
 date: '2016-04-18T13:31:53.131Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development", "hardware"]
+categories: ["Development", "hardware"]
 tags: ["yubikey", "2fa", "gpg", "türkçe"]
 slug: yubikeyi-smart-card-olarak-kullanmak-ve-gpg-anahtari-ile-sh-dogrulamasi-yapmak
 featuredImage: "posts/yubikeyi-smart-card-olarak-kullanmak-ve-gpg-anahtari-ile-sh-dogrulamasi-yapmak/images/yubikey-smart-card.jpg"

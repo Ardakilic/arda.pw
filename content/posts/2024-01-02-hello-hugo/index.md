@@ -3,7 +3,7 @@ title: 'Hello Hugo!'
 description: 'Hello once again, to blogging'
 date: '2024-01-02T00:00:00.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["news"]
+categories: ["News"]
 tags: ["personal", "english"]
 slug: hello-hugo
 featuredImage: "posts/hello-hugo/images/cover.jpg"

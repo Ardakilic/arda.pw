@@ -5,7 +5,7 @@ description: >-
   nasıl kuracağınızı ve aktif edeceğinizi anlatacağım.
 date: '2014-07-24T11:57:34.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development", "deveops"]
+categories: ["Development", "Deveops"]
 tags: ["centos", "namecheap", "ssl", "positivessl", "türkçe"]
 slug: centos-namecheap-positivessl-sertifikalama
 # featuredImage: "posts/centos-namecheap-positivessl-sertifikalama/images/https.jpg"

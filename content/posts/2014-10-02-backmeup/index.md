@@ -5,7 +5,7 @@ title: >-
 description: Bugün sizlere yazdığım bir shell script’i tanıtmak istiyorum. Adı BackMeUp.
 date: '2014-10-02T14:49:53.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development", "devops"]
+categories: ["Development", "Devops"]
 tags: ["backmeup", "backup", "backup", "aws", "s3", "dropbox", "türkçe"]
 slug: backmeup
 # featuredImage: "posts/backmeup/images/backmeup.jpg"

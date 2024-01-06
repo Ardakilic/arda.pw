@@ -3,7 +3,7 @@ title: 'Laravel 5: Fetching unique slugs before saving'
 description: 'Hello, Today, I’ll try to tell about a little tiny trick about PHP traits using Laravel as example.'
 date: '2015-09-01T08:36:08.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development"]
+categories: ["Development"]
 tags: ["laravel", "php", "slug", "english"]
 slug: laravel-5-fetching-unique-slugs-before-saving
 draft: false

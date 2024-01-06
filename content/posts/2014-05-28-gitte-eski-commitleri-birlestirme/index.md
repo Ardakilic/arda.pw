@@ -3,7 +3,7 @@ title: Git’te eski commit’leri birleştirme
 description: Bu yazıda gitteki eski commitleri squashlayarak nasıl birleştireceğiniz hakkında temel bilgileri bulabilirsiniz 
 date: '2014-05-28T09:31:58.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development"]
+categories: ["Development"]
 tags: ["git", "commit", "squash", "türkçe"]
 slug: gitte-eski-commit-leri-birlestirme
 # featuredImage: "posts/gitte-eski-commit-leri-birlestirme/images/git-tree.png"

@@ -5,7 +5,7 @@ description: >-
   istiyorum.
 date: '2014-05-21T14:36:57.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development"]
+categories: ["Development"]
 tags: ["laravel", "php", "sms", "mutlucell", "türkçe"]
 # featuredImage: "posts/laravel-ile-sms-gonderme-mutlucell-sms/images/laravel-logo.png"
 slug: laravel-ile-sms-gonderme-mutlucell-sms

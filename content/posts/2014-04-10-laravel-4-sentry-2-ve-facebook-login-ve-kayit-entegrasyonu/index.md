@@ -5,7 +5,7 @@ description: >-
   authentication sınıfı Sentry (v2) ile Facebook connect entegrasyonunu…
 date: '2014-04-10T11:49:52.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development"]
+categories: ["Development"]
 tags: ["laravel", "php", "rdbms", "sentry", "türkçe"]
 # featuredImage: "posts/laravel-4-sentry-2-ve-facebook-login-ve-kayit-entegrasyonu/images/laravel-logo.png"
 slug: laravel-4-sentry-2-ve-facebook-login-ve-kayit-entegrasyonu

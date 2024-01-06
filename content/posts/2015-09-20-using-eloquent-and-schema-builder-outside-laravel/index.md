@@ -3,7 +3,7 @@ title: Using Eloquent and Schema Builder Commands Outside Laravel
 description: 'Hey there'
 date: '2015-09-20T15:06:00.000Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development"]
+categories: ["Development"]
 tags: ["laravel", "php", "schema", "eloquant", "orm", "database", "english"]
 slug: using-eloquent-and-schema-builder-commands-outside-laravel
 # featuredImage: "posts/using-eloquent-and-schema-builder-commands-outside-laravel/images/laradawg.png"

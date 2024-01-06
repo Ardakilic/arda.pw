@@ -5,7 +5,7 @@ description: >-
   nedir, neye yarar, neler yaptım kısaca, dilim döndüğünce…
 date: '2016-03-29T09:02:26.373Z'
 author: ["Arda Kılıçdağı"]
-categories: ["development", "hardware"]
+categories: ["Development", "hardware"]
 tags: ["yubikey", "2fa", "türkçe"]
 slug: yubi-ney-yubikey-hakkinda-ilk-deneyimlerim
 # featuredImage: "posts/yubi-ney-yubikey-hakkinda-ilk-deneyimlerim/images/yubi.jpg"
