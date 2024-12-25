@@ -9,12 +9,19 @@ theme = "hugo-coder"
 # languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 10
+pagination.pagerSize = 10
 
 disqusShortname = "ardapw"
 
 [markup.highlight]
 style = "github-dark"
+
+# Execute unsafe HTML Markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+# Execute unsafe HTML Markup END
 
 [params]
   author = "Arda Kılıçdağı"
@@ -63,14 +70,14 @@ style = "github-dark"
   url = "https://twitter.com/ardadev"
 [[params.social]]
   name = "Mastodon"
-  icon = "fa fa-mastodon fa-2x"
+  icon = "fa fa-brands fa-mastodon fa-2x"
   weight = 4
   url = "https://micro.arda.pw/@arda"
 [[params.social]]
   name = "BlueSky"
   icon = "fa fa-cloud fa-2x"
   weight = 4
-  url = "https://staging.bsky.app/profile/arda.bsky.social"
+  url = "https://bsky.app/profile/arda.bsky.social"
 [[params.social]]
   name = "Reddit"
   icon = "fa fa-reddit fa-2x"
