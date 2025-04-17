@@ -1,0 +1,15 @@
+{
+    "names": {
+        "arda": "2c5788f9add2d7919ee28d225799c96f99128614f9a1ebda3fbc7adb0b8c4bbb"
+    },
+    "relays": {
+        "2c5788f9add2d7919ee28d225799c96f99128614f9a1ebda3fbc7adb0b8c4bbb": [
+            "wss://relay.primal.net",
+            "wss://eden.nostr.land",
+            "wss://relay.damus.io",
+            "wss://nostr.wine",
+            "wss://filter.nostr.wine/npub193tc37dd6tter8hz35390xwfd7v39ps5lxs7hk3lh3adkzuvfwaselzjc4?broadcast=true",
+            "wss://purplepag.es"
+        ]
+    }
+}
