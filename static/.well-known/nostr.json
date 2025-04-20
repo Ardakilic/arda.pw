@@ -6,7 +6,17 @@
         "2c5788f9add2d7919ee28d225799c96f99128614f9a1ebda3fbc7adb0b8c4bbb": [
             "wss://relay.primal.net",
             "wss://relay.damus.io",
-            "wss://nos.lol"
+            "wss://nos.lol",
+            "wss://filter.nostr.wine",
+            "wss://nostr-pub.wellorder.net",
+            "wss://nostr.land",
+            "wss://nostr.wine",
+            "wss://purplepag.es",
+            "wss://purplerelay.com",
+            "wss://relay.getalby.com/v1",
+            "wss://relay.mostr.pub",
+            "wss://theforest.nostr1.com",
+            "wss://relay.nos.social"
         ]
     }
 }
