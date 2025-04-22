@@ -64,10 +64,10 @@ style = "github-dark"
   weight = 2
   url = "https://stackoverflow.com/users/570763/arda"
 [[params.social]]
-  name = "Twitter"
+  name = "X"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/ardadev"
+  url = "https://x.com/ardadev"
 [[params.social]]
   name = "Mastodon"
   icon = "fa fa-brands fa-mastodon fa-2x"
@@ -78,6 +78,11 @@ style = "github-dark"
   icon = "fa fa-cloud fa-2x"
   weight = 4
   url = "https://bsky.app/profile/arda.bsky.social"
+[[params.social]]
+  name = "Nostr"
+  icon = "fa fa-crow fa-2x"
+  weight = 4
+  url = "https://primal.net/p/nprofile1qqszc4uglxka94u3nm3g6gjhn8yklxgjsc20ng0tmglmc7kmpwxyhwcva0fq8"
 [[params.social]]
   name = "Reddit"
   icon = "fa fa-reddit fa-2x"
