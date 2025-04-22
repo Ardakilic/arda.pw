@@ -15,7 +15,7 @@ draft: false
 
 In software development, it's not uncommon to accidentally commit sensitive files to a Git repository. This could be configuration files containing API keys, environment variables, or other sensitive information. Once these files are pushed to a remote repository, they become part of the Git history, which can pose security risks.
 
-In this post, I'll walk you through the process of completely removing a sensitive file from Git history, using a real-world example from the sox_ng_dockerized project.
+In this post, I'll walk you through the process of completely removing a sensitive file from Git history.
 
 ## The Problem
 
