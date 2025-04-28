@@ -6,6 +6,7 @@ slug: "mac-mini-persistent-web-server"
 tags: ["mac-mini", "server", "macos", "docker", "orbstack", "homelab", "portainer", "automount", "headless", "english"]
 categories: ["Tutorials", "Server Administration", "macOS"]
 author: "Arda Kılıçdağı"
+featuredImage: "posts/mac-mini-persistent-web-server/images/cover.webp"
 ---
 
 # Setting Up a Mac Mini as a Persistent Web Server
