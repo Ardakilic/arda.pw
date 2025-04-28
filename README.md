@@ -11,7 +11,7 @@ To run locally, simply execute
 hugo server
 ```
 
-or if you want to use Docker, you can run
+or if you want to use Docker instead, you can run like
 
 ```bash
 docker run --rm \
