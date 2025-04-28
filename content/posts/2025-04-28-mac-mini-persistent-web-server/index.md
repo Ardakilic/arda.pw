@@ -335,7 +335,7 @@ Set up monitoring to restart services if they fail:
 
    Example Monit configuration for monitoring Orbstack (note that this differs from monitoring standard Docker):
 
-   ```
+   ```yaml
    # /usr/local/etc/monitrc
    check process orbstack
      with pidfile "/Library/Logs/orbstack.pid"
