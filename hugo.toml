@@ -92,7 +92,7 @@ style = "github-dark"
   name = "Trakt"
   icon = "fa fa-tv fa-2x"
   weight = 6
-  url = "https://trakt.tv/users/arda/"
+  url = "https://trakt.tv/users/arda"
 [[params.social]]
   name = "IGDB"
   icon = "fa fa-gamepad fa-2x"
