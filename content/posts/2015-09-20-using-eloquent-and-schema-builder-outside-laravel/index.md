@@ -44,7 +44,7 @@ I tried Googling, also found [this guy](http://vkbansal.me/blog/trying-eloquent-
 
 And then, saw this tweet sadly.
 
-{{< tweet user="taylorotwell" id="414503338026102784" >}}
+{{< x user="taylorotwell" id="414503338026102784" >}}
 
 
 So I gave up using Artisan commands in my application and in Symfony console command to manage migrations.

@@ -4,7 +4,6 @@ slug: "mounting-ipod-rockbox-macos"
 date: 2025-05-11T10:00:00+03:00
 draft: false
 tags: ["macOS", "Rockbox", "iPod", "mounting", "tutorial", "english"]
-draft: false
 author: "Arda Kılıçdağı"
 featuredImage: "posts/mounting-ipod-rockbox-macos/images/cover.webp"
 ---

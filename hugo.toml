@@ -55,27 +55,27 @@ style = "github-dark"
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github fa-2x"
+  icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/Ardakilic"
 [[params.social]]
   name = "Stackoverflow"
-  icon = "fa fa-stack-overflow fa-2x"
+  icon = "fa-brands fa-stack-overflow fa-2x"
   weight = 2
   url = "https://stackoverflow.com/users/570763/arda"
 [[params.social]]
   name = "X"
-  icon = "fa fa-twitter fa-2x"
+  icon = "fa-brands fa-x-twitter fa-2x"
   weight = 3
   url = "https://x.com/ardadev"
 [[params.social]]
   name = "Mastodon"
-  icon = "fa fa-brands fa-mastodon fa-2x"
+  icon = "fa-brands fa-mastodon fa-2x"
   weight = 4
   url = "https://micro.arda.pw/@arda"
 [[params.social]]
   name = "BlueSky"
-  icon = "fa fa-cloud fa-2x"
+  icon = "fa-brands fa-bluesky fa-2x"
   weight = 4
   url = "https://bsky.app/profile/arda.bsky.social"
 [[params.social]]
@@ -100,7 +100,7 @@ style = "github-dark"
   url = "https://www.igdb.com/users/ardakilicdagi"
 [[params.social]]
   name = "Last.fm"
-  icon = "fa fa-lastfm fa-2x"
+  icon = "fa-brands fa-lastfm fa-2x"
   weight = 8
   url = "https://www.last.fm/user/ArdaDev"
 [[params.social]]
@@ -110,7 +110,7 @@ style = "github-dark"
   url = "https://arda.pw/index.xml"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 9
   url = "https://www.linkedin.com/in/ardakilicdagi/"
 

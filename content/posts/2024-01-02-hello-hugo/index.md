@@ -14,7 +14,7 @@ Hello,
 
 This will be a simple post. After a huge break of blogging, almost for like 8 years, I decided to start blogging once again.
 
-Although I'm quite active on my [Twitter / X](https://twitter.com/ardadev) and recently on my self-hosted [Mastodon account](https://micro.arda.pw/@arda), I had always skipped blogging. It may be lack of interest, or maybe me sharing a lot more on social media nowadays.
+Although I'm quite active on my [Twitter / X](https://x.com/ardadev) and recently on my self-hosted [Mastodon account](https://micro.arda.pw/@arda), I had always skipped blogging. It may be lack of interest, or maybe me sharing a lot more on social media nowadays.
 
 However, if you can read this post, you could understand that I moved away from Medium.com, to this static bloc posting platform, Hugo.
 

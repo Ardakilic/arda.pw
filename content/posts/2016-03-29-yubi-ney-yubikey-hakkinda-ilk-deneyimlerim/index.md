@@ -143,7 +143,7 @@ _Anahtar içinde Türkçe karakter ile “ı” harfi var._
 
 İlk olarak sorunu daha iyi anlamak için Macbook’un bu cihazı klavye gibi tanımasından dolayı Klavye dizilimimi Amerikan İngilizce’sine değiştirdim, ve de sorun düzeldi. Ama Macbook’ta aynı anda bağlı farklı klavyelerde farklı dizimler uygulanamıyor, ve de her Yubikey kullandığımda belli komut veya klavye kısayolları ile dil değiştirmek istemiyorum. Bunun bir çözümü olmalıydı..
 
-{{< tweet user="ardadev" id="709783356624510976" >}}
+{{< x user="ardadev" id="709783356624510976" >}}
 
 Sıkça sorulan sorular sayfasında da çözümünü bulamadığım bu sorunu önce twitter’da sordum, bir yandan da aramaya devam ettim. Yubico’nun bu konu ile ilgili [şu blog yazısına](https://support.yubico.com/hc/en-us/articles/5093789359516-Using-YubiKeys-with-Various-Keyboard-Layouts) _(2023: yazı linki güncellendi)_ denk geldim.
 
