@@ -28,3 +28,10 @@ To update the theme, simply run
 ```bash
 git submodule update --remote --merge
 ```
+
+Alternatively, you can use the following make commands:
+
+- `make server` - Start the Hugo development server
+- `make docker` - Start the site using Docker
+- `make update` - Update the theme submodule
+- `make open` - Open the local site in a browser
