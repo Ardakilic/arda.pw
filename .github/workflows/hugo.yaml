@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.160.1
+      HUGO_VERSION: 0.164.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -41,14 +41,14 @@ jobs:
       # - name: Install Dart Sass
       #  run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
-      # - name: Install Node.js dependencies
+      # - name: Install Node.js dependencies
       #  run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
