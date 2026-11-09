@@ -10,7 +10,7 @@ I'm a Software Engineer located in Istanbul, Turkey.
 
 I've been developing applications since 2006 using various technologies.
 
-I'm currently working as a Software Architect, and Staff Engineer at Teknasyon.
+I'm currently working as a Tech Lead at Insider One.
 
 I love mechanical keyboards, fountain pens, micro controllers and hobby electronics in general.
 
