@@ -93,7 +93,7 @@ Cross-link related posts (same brand, same distillery, same shopping trip) with 
 ### Image compression
 
 - Commit only compressed images, preferably WebP. Never commit large originals.
-- Any tool will do: a local one (such as `cwebp`, ImageMagick or `squoosh-cli`) or a remote service such as [TinyPNG](https://tinypng.com/).
+- [TinyPNG](https://tinypng.com/) is the preferred tool. If it isn't available or Arda declines it, a local tool such as `cwebp`, ImageMagick or `squoosh-cli` is fine.
 - **Ask Arda before compressing.** Confirm the method with him first. A remote service uploads his photos to a third party.
 - **TinyPNG:** follow [docs/tinypng-compression.md](docs/tinypng-compression.md). It needs Arda's API key in `~/.config/tinify/key`. If the file is missing, ask him to create it by running this in his own terminal, rather than pasting the key into the chat:
   `mkdir -p ~/.config/tinify && printf '%s' 'YOUR_KEY' > ~/.config/tinify/key && chmod 600 ~/.config/tinify/key`
