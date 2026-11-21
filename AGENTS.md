@@ -10,6 +10,7 @@ Guidance for AI agents working on [arda.pw](https://arda.pw), Arda Kılıçdağ�
 - Hugo skips posts dated in the future, so never set a `date` later than now.
 - Deploys: GitHub Actions publishes the site on every push to `master`. Never push to `master`. Pull `master`, branch off it, commit, and open a pull request for Arda to review.
 - Commits use conventional prefixes, for example `feat: add <drink> tasting notes`.
+- `docs/` holds how-to guides, such as image compression. Check it before starting a task one of them covers.
 
 ## Drink posts (whisky and other drinks)
 
@@ -94,6 +95,8 @@ Cross-link related posts (same brand, same distillery, same shopping trip) with 
 - Commit only compressed images, preferably WebP. Never commit large originals.
 - Any tool will do: a local one (such as `cwebp`, ImageMagick or `squoosh-cli`) or a remote service such as [TinyPNG](https://tinypng.com/).
 - **Ask Arda before compressing.** Confirm the method with him first. A remote service uploads his photos to a third party.
+- **TinyPNG:** follow [docs/tinypng-compression.md](docs/tinypng-compression.md). It needs Arda's API key in `~/.config/tinify/key`. If the file is missing, ask him to create it by running this in his own terminal, rather than pasting the key into the chat:
+  `mkdir -p ~/.config/tinify && printf '%s' 'YOUR_KEY' > ~/.config/tinify/key && chmod 600 ~/.config/tinify/key`
 - Afterwards, check that each file is a valid WebP (`file <image>.webp`) and still looks right.
 
 ### Before opening the pull request
