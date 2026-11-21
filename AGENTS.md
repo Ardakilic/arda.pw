@@ -87,28 +87,14 @@ Cross-link related posts (same brand, same distillery, same shopping trip) with 
   - right under an inline image: `*Photo: [Source name](source URL)*`
   - for the cover, which the theme shows without a caption, in the body text, for example "The cover photo is from [The Whisky Exchange](URL)."
 - If there's no usable photo, leave out `featuredImage`. Never use an unrelated image.
-- Every image is WebP, fits within 1280×1280, and is compressed with TinyPNG (usually under about 100 KB). Keep downloaded or original images in a temporary folder outside the repo, and commit only the final `.webp` files.
+- Every image is WebP, fits within 1280×1280, and is compressed (usually under about 100 KB; see below). Keep downloaded or original images in a temporary folder outside the repo, and commit only the final `.webp` files.
 
-### TinyPNG compression
+### Image compression
 
-- The API key lives in `~/.config/tinify/key` (mode 600). Arda may delete it after use. If it's missing, stop and ask him to recreate it; he can copy the key from https://tinify.com/dashboard/api.
-- Never print the key, put it on a command line, commit it, or include it in a pull request. Pass it to curl as a config file on stdin (`-K -`), as below.
-- Billing: in practice each image costs 2 compressions: 1 for the upload and 1 for the output request, whether it converts only or resizes and converts in one call. The free plan gives 500 a month, and the `Compression-Count` response header shows this month's usage. Only include `resize` when the image is bigger than 1280 px on either side.
-
-```bash
-key_cfg() { printf 'user = "api:%s"\n' "$(tr -d '\n\r ' < ~/.config/tinify/key)"; }
-
-# 1. Upload. The output URL comes back in the Location header (HTTP 201).
-loc=$(key_cfg | curl -sS -K - --data-binary @original.jpg -D - -o /dev/null https://api.tinify.com/shrink \
-  | awk 'tolower($1)=="location:"{print $2}' | tr -d '\r')
-
-# 2. Convert to WebP (drop "resize" if the image already fits in 1280x1280) and download it.
-key_cfg | curl -sS -K - -H 'Content-Type: application/json' \
-  --data '{"resize":{"method":"fit","width":1280,"height":1280},"convert":{"type":"image/webp"}}' \
-  -o content/posts/<bundle>/images/cover.webp "$loc"
-
-file content/posts/<bundle>/images/cover.webp   # must say "Web/P image"
-```
+- Commit only compressed images, preferably WebP. Never commit large originals.
+- Any tool will do: a local one (such as `cwebp`, ImageMagick or `squoosh-cli`) or a remote service such as [TinyPNG](https://tinypng.com/).
+- **Ask Arda before compressing.** Confirm the method with him first. A remote service uploads his photos to a third party.
+- Afterwards, check that each file is a valid WebP (`file <image>.webp`) and still looks right.
 
 ### Before opening the pull request
 
